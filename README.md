@@ -1,4 +1,3 @@
-# Curriculum Vitae	
 
 ## Personal information	
 Kestutis Vinciunas  
@@ -50,21 +49,21 @@ Occupation or position held	Project manager
 Main activities and responsibilities  
 Wireless and wired networks test and measurement devices, software and complete systems selling, implementation and maintenance  
 *JSC „Lokmis“, Naugarduko str. 68B, Vilnius*  
-*Telecommunications and networking  *
+*Telecommunications and networking*  
 	
 July 2002 – November 2003  
 Occupation or position held	Executive operator  
 Main activities and responsibilities  
 Local Area Network administration and electronic-automatic facility maintenance at fuel depot  
-*JSC „Statoil-Lietuva“ fuel depot „Vaidotai“, Vilnius district  *
-*Petrochemical  *
+*JSC „Statoil-Lietuva“ fuel depot „Vaidotai“, Vilnius district*  
+*Petrochemical*  
 	
 June 2001– August 2001  
 Occupation or position held	PSTN telephone networks projector assistant – trainee  
 Main activities and responsibilities  
 PSTN network projects estimation and technical specifications preparation  
-*“Comliet” Panevezys subsidiary, Gelezinkelio str. 19, Panevezys  *
-*Telecommunications  *
+*“Comliet” Panevezys subsidiary, Gelezinkelio str. 19, Panevezys*  
+*Telecommunications*  
 	
 ## Education and training  
 	
@@ -73,16 +72,14 @@ Title of qualification awarded	Master’s degree
 Principal subjects/occupational skills covered:  
 Telecommunications and Electronics studies  
 *Vilnius university, Physics faculty*  
-Level in national or international classification:  
-ISCED level 5  
+Level in national or international classification: ISCED level 5  
 	
 September 1999 – June 2003  
 Title of qualification awarded	Engineering bachelor’s degree  
 Principal subjects/occupational skills covered:  
 Telecommunications and Electronics studies including networking, computer sciences, statistical data, programming topics  
 *Vilnius university, Physics faculty*  
-Level in national or international classification:  
-ISCED level 5  
+Level in national or international classification: ISCED level 5  
 	
 February 2001 – July 2002  
 Title of qualification awarded: CCNA certificate  
@@ -90,25 +87,23 @@ Principal subjects/occupational skills covered:
 - Basic skills for networking and routing  
 - Cisco IOS basics  
 *Cisco Networking Academy Program, Vilnius University*  
-Level in national or international classification:  
-N/A  
+Level in national or international classification: N/A  
 	
 September 1991 – June 1999  
 Title of qualification awarded: Secondary education  
 Principal subjects/occupational skills covered:    
 Exact sciences background  
 *Juozas Balcikonis gymnasium in Panevezys, Lithuania*  
-Level in national or international classification:  
- ISCED level 3
+Level in national or international classification: ISCED level 3
 	
 ## Personal skills and competences  
 	
+### Languages
 Mother tongue(s): Lithuanian  
 
-Other language(s): 
-English		C2	Proficient user	C2  
-Russian		C2	Proficient user	C2  
-
+Other language(s):  
+English		C2	Proficient user  
+Russian		C2	Proficient user  
 	
 ### Social skills and competences:  
 Flexibility, team-work, leading a group, working in international group. I’ve learned these skills during my work in the NSN and International Telecommunication Union, European Communications Office as a spectrum monitoring development professional.  
